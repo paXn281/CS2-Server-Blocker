@@ -1,3 +1,5 @@
+## Informations:
+
 CS2 Server Blocker is the right answer if you are a fan of Counter Strike 2, you know how frustrating it can be to play with people from different regions who have high ping, poor communication skills, or toxic behavior. You may have wished for a way to block certain regions from your matchmaking pool, so you can enjoy a smoother and more enjoyable gaming experience.
 
 ![azd](https://i.imgur.com/7SaCppN.jpg)
@@ -22,7 +24,7 @@ It's a simple and effective solution for improving your Counter Strike 2 gamepla
 
 ## Changelogs of CS2 Server Blocker:
 
-#Removed:
+# Removed:
 
 - Russia
 - Ukraine
