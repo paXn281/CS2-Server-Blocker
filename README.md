@@ -1,5 +1,7 @@
 CS2 Server Blocker is the right answer if you are a fan of Counter Strike 2, you know how frustrating it can be to play with people from different regions who have high ping, poor communication skills, or toxic behavior. You may have wished for a way to block certain regions from your matchmaking pool, so you can enjoy a smoother and more enjoyable gaming experience.
 
+![azd](blob:https://imgur.com/d7b499cc-d7fe-4b53-8837-e972a35fce09)
+
 ## About the CS2 Server Blocker
 
 CS2 Server Blocker is a free hack for Counter Strike 2 that allows you to block matchmaking with other players from specific regions, such as Russia, Ukraine, and Turkey. This way, you can avoid laggy servers, language barriers, and annoying teammates who ruin your fun. You can choose which regions you want to block or allow, and customize your preferences according to your needs.
