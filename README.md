@@ -6,7 +6,7 @@ CS2 Server Blocker is a free hack for Counter Strike 2 that allows you to block 
 
 It's a simple and effective solution for improving your Counter Strike 2 gameplay. It works by modifying your game files and blocking the IP addresses of the servers you don’t want to join. It does not interfere with your game performance or stability, and it does not require any additional software or installation. You can easily enable or disable it whenever you want, and it does not affect your rank or stats.
 
-# Also, compatible with the latest version of Counter Strike 2, and it is updated regularly to ensure its functionality. It is also undetectable by Valve Anti-Cheat (VAC), so you don’t have to worry about getting banned or suspended for using it.
+## Also, compatible with the latest version of Counter Strike 2, and it is updated regularly to ensure its functionality. It is also undetectable by Valve Anti-Cheat (VAC), so you don’t have to worry about getting banned or suspended for using it.
 
 ## How to Use the CS2 Server Blocker
 1. Download the tool from releases or CLICK on image below for automatically download.
